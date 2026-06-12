@@ -12,4 +12,4 @@ if (-not $status) {
 
 git commit -m $Message
 git push origin main
-Write-Host "Push termine : https://github.com/haimoudanass/bankingbackend"
+Write-Host "Push termine : https://github.com/rijaliyassir5-wq/bankingbackend-main"

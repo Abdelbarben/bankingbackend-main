@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.tahabellaoui</groupId>
+    <groupId>com.yassirrijali</groupId>
     <artifactId>bankingbackend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>bankingbackend</name>
